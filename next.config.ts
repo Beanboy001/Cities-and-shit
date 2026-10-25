@@ -1,5 +1,7 @@
 import type { NextConfig } from 'next';
 
+const basePath: '/dataset-atlas'
+
 const assetPrefix = process.env.NODE_ENV === 'production' ? '/dataset-atlas' : '';
 
 const nextConfig: NextConfig = {
