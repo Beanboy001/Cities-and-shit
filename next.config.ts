@@ -1,6 +1,6 @@
 import type { NextConfig } from 'next';
 
-const assetPrefix = process.env.NODE_ENV === 'production' ? '/dataset-atlas' : '';
+const assetPrefix = process.env.NODE_ENV === 'production' ? '/Cities-and-shit' : '';
 
 const nextConfig: NextConfig = {
   output: 'export',
