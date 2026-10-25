@@ -11,17 +11,6 @@
     "file": "data/mexico.csv"
   },
   {
-    "id": "india-censusindia-2011",
-    "country": "India",
-    "year": 2011,
-    "releaseType": "census",
-    "source": "Census India",
-    "sourceShort": "Census India",
-    "subdivisionLabel": "State/territory",
-    "performanceNote": "may run slowly",
-    "file": "data/india.csv"
-  },
-  {
     "id": "argentina-indec-2022",
     "country": "Argentina",
     "year": 2022,
